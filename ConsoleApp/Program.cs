@@ -83,7 +83,7 @@ namespace ConsoleApp{
                   if (finish == 'Y' || finish == 'y'){
                     Console.WriteLine("Finished operation ! ");
             } else{
-                Console.WriteLine("Start the operation again : ");
+                Console.WriteLine("Start the operation again !");
             }
         }
 
